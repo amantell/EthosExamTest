@@ -1,0 +1,18 @@
+Ethos Exam Instructions:
+
+1) Download the solution onto a Windows computer.
+2) Open up the solution in Visual Studio 2017.
+3) Run in Debug mode. Expect to see the command prompt
+4) For each type of information (amount, interest, etc), you should be able to type in a 
+value at the command line and hit enter.
+5) Once you've typed in each kind of data, you should expect to see a JSON object containing
+the calculated results.
+
+If you wish to run the executable without opening up Visual Studio, you should 
+make sure that the EthosExam.exe file and Newtonsoft.Json.dll are in the same directory. 
+
+1) Double-click on the EthosExam.exe. You should expect to see a command prompt.
+2) For each type of information (amount, interest, etc), you should be able to type in a 
+value at the command line and hit enter.
+3) Once you've typed in each kind of data, you should expect to see a JSON object containing
+the calculated results.
